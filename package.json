@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-sonoff-th",
+  "version": "0.0.1",
+  "description": "HomeBridge Plugin for Sonoff THx Switch and Temperature Sensor",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "Marko Zabreznik",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MarZab/homebridge-sonoff-th.git"
+  },
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
